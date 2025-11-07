@@ -10,8 +10,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^2.0.20",
+    "@ai-sdk/react": "^2.0.24",
     "@datastax/astra-db-ts": "0.1.4",
     "@types/node": "^20.8.10",
+    "@vercel/edge-config": "^1.4.3",
     "ai": "^5.0.89",
     "geist": "^1.1.0",
     "langchain": "^1.0.3",
